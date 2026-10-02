@@ -1,0 +1,8 @@
+create 2 terminals
+TERMINAL === 1
+cd C:\Users\HP ELITEBOOK\Desktop\project\backend
+.\.venv\Scripts\Activate.ps1
+python .\app.py
+FOR BACKEND-----> python app.py
+2. TERMINAL === 2
+FOR FRONTED------> npm run dev
